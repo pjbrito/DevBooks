@@ -69,6 +69,7 @@ Find us on [GitHub](https://github.com/devtoolsd).
 - **[Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)** - *by: Gamma, Helm, Johnson, Vlissides* - The OG patterns catalog — treat it as vocabulary, not dogma.
 - **[Fundamentals of Software Architecture](https://fundamentalsofsoftwarearchitecture.com/)** - *by: Richards & Ford* - Practical, modern guide to architecture styles, trade-offs, and the architect's role.
 - **[The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)** - *by: Frederick P. Brooks Jr.* - Timeless lessons on why software schedules explode and what to do about it.
+- **[Patterns of Enterprise Application Architecture](https://martinfowler.com/books/eaa.html)** - *by Martin Fowler, with Dave Rice, Matthew Foemmel, Edward Hieatt, Robert Mee, and Randy Stafford* - The bulk of the book is the reference to forty or so patterns. All of these patterns were seen in the field, usually on many different programming platforms.
 
 > Full list: [data/software-engineering.md](data/software-engineering.md)
 
